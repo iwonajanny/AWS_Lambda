@@ -1,1 +1,1 @@
-# AWS_Rekognition
+# AWS Lambda
